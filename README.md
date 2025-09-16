@@ -1,5 +1,7 @@
 # vehicle-traffic-jakarta
 
+jupyter notebook - python
+
 using colab is easier than running in local, but both are fine, choose whichever you prefer.
 
 
